@@ -1,0 +1,13 @@
+/public
+ |-> index.html
+src
+  ├── App.jsx
+  ├── components
+  │     ├── Header.jsx
+  │     ├── Hero.jsx
+  │     ├── InfoSection.jsx
+  │     ├── Testimonial.jsx
+  │     ├── CTA.jsx
+  │     ├── Footer.jsx
+  ├── index.js
+  ├── index.css
